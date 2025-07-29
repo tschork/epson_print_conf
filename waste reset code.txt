@@ -1,0 +1,5 @@
+[INFO] Found printer 'EPSON ET-2710 Series' at 192.168.8.86 (hostname: EPSON577FB9.local)
+[NOTE] Current EEPROM values for Raw waste reset: 48: 253, 49: 23, 47: 0, 52: 63, 53: 30, 54: 99, 50: 5, 51: 0, 55: 94, 28: 12.
+[NOTE] Current EEPROM values for Main waste: 48: 253, 49: 23, 47: 0.
+[NOTE] Current EEPROM values for Borderless waste: 50: 5, 51: 0, 47: 0.
+[INFO] Waste ink levels have been reset. Perform a power cycle of the printer now.
